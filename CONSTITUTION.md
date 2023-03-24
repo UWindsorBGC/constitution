@@ -30,17 +30,17 @@ The purpose of University of Windsor Board games club is to promote interest in 
 
 # ARTICLE III: Membership
  
-Section 1: Membership is open to all currently enrolled students at The University of Windsor along with the alumni, faculty, staff and their spouses as well as any other entities listed within the UWSA’s Guidelines
+**Section 1:** Membership is open to all currently enrolled students at The University of Windsor along with the alumni, faculty, staff and their spouses as well as any other entities listed within the UWSA’s Guidelines
  
-Section 2: Membership will not be denied on the basis of age, race, sex, sexual orientation, gender identity, disability, veteran status, religion, or national origin.
+**Section 2:** Membership will not be denied on the basis of age, race, sex, sexual orientation, gender identity, disability, veteran status, religion, or national origin.
  
-Section 3: Membership will be defined as qualified individuals who have signed on during at least one third of the clubs’ active weeks per current or most recent semester.
+**Section 3:** Membership will be defined as qualified individuals who have signed on during at least one third of the clubs’ active weeks per current or most recent semester.
  
 
 # ARTICLE IV: Officers
  
-Section 1: 	The Executive Committee of this organization are composed of the following officers: President, Vice President, Secretary, Game Master, and Treasurer. It should be noted that only student members can serve as officers.
-Section 2: 	The duties of the officers will be as follows:
+**Section 1:** The Executive Committee of this organization are composed of the following officers: President, Vice President, Secretary, Game Master, and Treasurer. It should be noted that only student members can serve as officers.
+**Section 2:** The duties of the officers will be as follows:
 
 **President**
 *	Organize and preside over meetings, activities, and events.
@@ -79,37 +79,37 @@ Section 2: 	The duties of the officers will be as follows:
 
 # ARTICLE V: Elections 
  
-Section 1: Executive officers will be elected during the month of April of each academic year.
+**Section 1:** Executive officers will be elected during the month of April of each academic year.
  
-Section 2: Executive Officers will assume office after being sworn in for the following year by current officers at the following officer meeting and will serve until the following summer. Officers may serve an unlimited number of terms provided they are re-elected each year.
+**Section 2:** Executive Officers will assume office after being sworn in for the following year by current officers at the following officer meeting and will serve until the following summer. Officers may serve an unlimited number of terms provided they are re-elected each year.
  
-Section 3: All executive officers will be elected by a general body vote, and all chairpersons will be appointed by an officer vote. All candidates in an upcoming election must register to run at least one week prior to the election.
+**Section 3:** All executive officers will be elected by a general body vote, and all chairpersons will be appointed by an officer vote. All candidates in an upcoming election must register to run at least one week prior to the election.
  
-Section 4: Elections shall be won by a majority of the vote. In the event of a tie, a run-off election will take place.
+**Section 4:** Elections shall be won by a majority of the vote. In the event of a tie, a run-off election will take place.
  
-Section 5: If an executive officer is unable (as determined by an officer vote) or no longer wishes to continue to fulfill their duties an emergency election will be held to fill the new vacancy. In the case of a vacancy in the presidential position, the vice president will take their place and an emergency election shall be held for the vice president's vacant position. This section shall not apply if the President directs the Vice President to assume the duties of the position of President on a temporary basis only, but the Vice President may request the Officers to apply this section if, in their opinion, the direction has remained in effect for an excessive period of time. 
+**Section 5:** If an executive officer is unable (as determined by an officer vote) or no longer wishes to continue to fulfill their duties an emergency election will be held to fill the new vacancy. In the case of a vacancy in the presidential position, the vice president will take their place and an emergency election shall be held for the vice president's vacant position. This section shall not apply if the President directs the Vice President to assume the duties of the position of President on a temporary basis only, but the Vice President may request the Officers to apply this section if, in their opinion, the direction has remained in effect for an excessive period of time. 
 
 
 # ARTICLE VI: Meetings
  
-Section 1: The organization will meet on -at least- a weekly, academic basis.
+**Section 1:** The organization will meet on -at least- a weekly, academic basis.
  
-Section 2: Executive officers may call, cancel, or reschedule meetings at any time due to extenuating circumstances. 24 hours prior notice should be given to all members.
+**Section 2:** Executive officers may call, cancel, or reschedule meetings at any time due to extenuating circumstances. 24 hours prior notice should be given to all members.
  
-Section 3: Voting may only take place at a meeting, and/or on an official online ballot.  The online vote will have a specified, predefined time limit. If a member is unable to vote with given methods, It is the responsibility of the affected party to come into contact with an officer for accommodations to be made
+**Section 3:** Voting may only take place at a meeting, and/or on an official online ballot.  The online vote will have a specified, predefined time limit. If a member is unable to vote with given methods, It is the responsibility of the affected party to come into contact with an officer for accommodations to be made
  
-Section 4: A quorum is ½ of the club membership. If a quorum is not present, voting shall be postponed until the next meeting.
+**Section 4:** A quorum is ½ of the club membership. If a quorum is not present, voting shall be postponed until the next meeting.
 
 
 # ARTICLE VII: Financial Plans
  
-Section 1: The Officers or the Executive committee will make a proposal to the membership to determine annual dues and fees assessed from the members. Fee or dues will be approved by 3/4 vote of the membership.
+**Section 1:** The Officers or the Executive committee will make a proposal to the membership to determine annual dues and fees assessed from the members. Fee or dues will be approved by 3/4 vote of the membership.
  
-Section 2: In the event of dissolution, all monetary assets shall be donated to the UWSA Food Pantry. Purchased items, such as equipment and books, may be distributed among members.
+**Section 2:** In the event of dissolution, all monetary assets shall be donated to the UWSA Food Pantry. Purchased items, such as equipment and books, may be distributed among members.
  
-Section 3: Organization members may donate funds to the club to assist in paying for      events, snacks, and equipment needed to play. The club may decide to plan and participate in fundraiser events to gain money for the club.
+**Section 3:** Organization members may donate funds to the club to assist in paying for      events, snacks, and equipment needed to play. The club may decide to plan and participate in fundraiser events to gain money for the club.
  
-Section 4: Organization funds may be used to purchase items such as: rulebooks, mats, dice, figures, and food to be used at club events and meetings. Funds may also be allocated for travel expenses, in the case of going to conventions or similar events.
+**Section 4:** Organization funds may be used to purchase items such as: rulebooks, mats, dice, figures, and food to be used at club events and meetings. Funds may also be allocated for travel expenses, in the case of going to conventions or similar events.
 
 
 # ARTICLE VIII: Amendments
