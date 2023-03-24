@@ -1,8 +1,20 @@
 # UWindsor Board Games Club Constitution
 
 Last Update: October 13, 2022.
- 
-# PREAMBLE: Purpose
+
+**Index:**
+
+* [**Article I: Name**](#article-i-name)
+* [**Article II: Purpose**](#article-ii-purpose)
+* [**Article III: Membership**](#article-iii-membership)
+* [**Article IV: Officers**](#article-iv-officers)
+* [**Article V: Elections**](#article-v-elections)
+* [**Article VI: Meetings**](#article-vi-meetings)
+* [**Article VII: Financial Plans**](#article-vii-financial-plans)
+* [**Article VIII: Ammendments**](#article-viii-amendments)
+* [**Article IX: Statement of Compliance**](#article-ix-statement-of-compliance)
+
+# PREAMBLE
  
 The purpose of our club is to promote creative thinking, teamwork, cooperation, and problem solving in a group setting, as well as to encourage new friendships and a sense of community among fans of board games and people interested in learning about it. We believe opening up horizons by presenting something new for many people to try can be an incredibly fulfilling experience for everyone involved to provide distinctive opportunities for student learning; develop innovative experiential programs that support student academic success, wellness, and personal growth; foster an inclusive, diverse, safe, and accessible campus community; cultivate individual, campus, civic, and global responsibility; and ensure opportunities for the development of leadership skills.
 
@@ -109,7 +121,7 @@ This constitution may be amended by a vote of two-thirds members that participat
  
 This organization shall comply with all University, local, state, and federal regulations.
 
-Signatures:
+# Signatures
 I, Omar Ebrahim, The President of The Board Games Club approve the ratification of this constitution. I promise to uphold the constitution. October 13th, 2022.
 
 
