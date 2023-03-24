@@ -2,7 +2,7 @@
 
 Last Update: October 13, 2022.
 
-**Index:**
+**Index**
 
 * [**Article I: Name**](#article-i-name)
 * [**Article II: Purpose**](#article-ii-purpose)
